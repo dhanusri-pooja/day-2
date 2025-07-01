@@ -24,7 +24,8 @@ Today I  learned how to build basic HTML web pages. I understood the structure o
 
 # 2.CREATED A UNORDERED LIST:
 
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
   <title>Unordered List Example</title>
